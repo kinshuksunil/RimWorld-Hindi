@@ -50,7 +50,7 @@
   <NoWorldsFilesFound>कोई विश्व फ़ाइल नहीं मिली। पहले विश्व का निर्माण करें।</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>{0} संस्करण अब उपलब्ध  अधिक जानकारी के लिए ludeon.com देखें।</BuildNowAvailable>
+  <BuildNowAvailable>{0} संस्करण अब उपलब्ध। अधिक जानकारी के लिए ludeon.com देखें।</BuildNowAvailable>
 	<BuildUpToDate>यह नवीनतम संस्करण है।</BuildUpToDate>
 	<ErrorGettingVersionInfo>संस्करण की जानकारी लेने में त्रुटी: {0}</ErrorGettingVersionInfo>
 	<LoadingVersionInfo>संस्करण की जानकारी लोड हो रही है...</LoadingVersionInfo>
