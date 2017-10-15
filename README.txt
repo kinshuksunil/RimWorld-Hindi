@@ -3,7 +3,7 @@ RimWorld Hindi
 
 This is the hindi translation data for RimWorld.
 
-Forum thread for the Hindi transaltion: [https://ludeon.com/forums/index.php?topic=36065.0]
+Forum thread for the Hindi transaltion: https://ludeon.com/forums/index.php?topic=36065.0
 
 
 Contributors:
