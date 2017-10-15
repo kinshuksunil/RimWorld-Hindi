@@ -9,6 +9,7 @@ Forum thread for the Hindi transaltion: [link to come here as soon as I create t
 Contributors:
 ---------------------
 - kinshuk
+- Ashish Deshmukh
 
 If you want to be added to the list of translators, there is just one rule:
 You have to help with the translations over at least two major releases.
