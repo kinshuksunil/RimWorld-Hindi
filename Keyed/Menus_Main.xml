@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Tutorial</Tutorial>
-  <NewColony>New colony</NewColony>
+  <Tutorial>ट्युटोरियल</Tutorial>
+  <NewColony>नई कॉलोनी</NewColony>
   <BackToGame>Back to game</BackToGame>
   <ReviewScenario>Review scenario</ReviewScenario>
-  <Save>Save</Save>
-  <LoadGame>Load game</LoadGame>
+  <Save>सेव करें</Save>
+  <LoadGame>गेम लोड करें</LoadGame>
   <Options>Options</Options>
-  <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
+  <Mods>माॅड्स</Mods>
+  <Credits>क्रेडिट</Credits>
   <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
   <QuitToOS>Quit to OS</QuitToOS>
   <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
+  <Forums>फ़ोरम</Forums>
+  <OfficialWiki>अधिकृत विकी</OfficialWiki>
   <TynansTwitter>Tynan's twitter</TynansTwitter>
   <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
-  <CreateWorld>Create world</CreateWorld>
+  <HelpTranslate>RimWorld के अनुवाद में सहायता करें</HelpTranslate>
+  <BuySoundtrack>साउंडट्रैक खरीदें</BuySoundtrack>
+  <CreateWorld>विश्व बनाएं</CreateWorld>
 
   <!--=========== Create/review world ================-->
   <ReviewWorld>Review world</ReviewWorld>
