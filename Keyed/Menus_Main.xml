@@ -45,15 +45,15 @@
   <WorldFactionsTab>दल</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>विश्व चुने</SelectWorld>
+  <WorldChooseButton>चुने</WorldChooseButton>
+  <NoWorldsFilesFound>कोई विश्व फ़ाइल नहीं मिली। पहले विश्व का निर्माण करें।</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>This is the latest version.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>{0} संस्करण अब उपलब्ध  अधिक जानकारी के लिए ludeon.com देखें।</BuildNowAvailable>
+	<BuildUpToDate>यह नवीनतम संस्करण है।</BuildUpToDate>
+	<ErrorGettingVersionInfo>संस्करण की जानकारी लेने में त्रुटी: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>संस्करण की जानकारी लोड हो रही है...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Generate world</GenerateWorld>
