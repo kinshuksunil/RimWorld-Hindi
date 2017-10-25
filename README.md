@@ -1,4 +1,4 @@
-#**RimWorld Hindi**
+# RimWorld Hindi
 
 This is the hindi translation data for RimWorld.
 
