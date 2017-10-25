@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<Chemical_WakeUp.label>HalloWach</Chemical_WakeUp.label>
+	<Chemical_WakeUp.label>वेकअप</Chemical_WakeUp.label>
 	<Chemical_WakeUp.description>Wegen einer Sucht nach HalloWach muss diese Person regelmäßig diese Droge konsumieren, um Entzugssymptomen vorzubeugen.</Chemical_WakeUp.description>    
 
 	<Chemical_Smokeleaf.label>Rauchblatt</Chemical_Smokeleaf.label>
@@ -10,13 +10,13 @@
 	<Chemical_Psychite.label>Psychid</Chemical_Psychite.label>
 	<Chemical_Psychite.description>Wegen einer Sucht nach Psychid muss diese Person regelmäßig diese Droge konsumieren, um Entzugssymptomen vorzubeugen.</Chemical_Psychite.description>    
 
-	<Chemical_GoJuice.label>GoJuice</Chemical_GoJuice.label>
+	<Chemical_GoJuice.label>गो-जूस</Chemical_GoJuice.label>
 	<Chemical_GoJuice.description>Wegen einer Sucht nach GoJuice muss diese Person regelmäßig diese Droge konsumieren, um Entzugssymptomen vorzubeugen.</Chemical_GoJuice.description>    
 
-	<Chemical_Alcohol.label>Alkohol</Chemical_Alcohol.label>
+	<Chemical_Alcohol.label>शराब</Chemical_Alcohol.label>
 	<Chemical_Alcohol.description>Wegen einer Sucht nach Alkohol muss diese Person regelmäßig diese Droge konsumieren, um Entzugssymptomen vorzubeugen.</Chemical_Alcohol.description>    
 
-	<Chemical_Luciferium.label>Luciferium</Chemical_Luciferium.label>
+	<Chemical_Luciferium.label>लुसिफरियम</Chemical_Luciferium.label>
 	<Chemical_Luciferium.description>Der Körper dieser Person ist durch Luciferium-Mechaniten verbessert worden.\n\nOhne regelmäßige Einnahme der Droge werden die Mechaniten ihren Zusammenhalt verlieren. Wenn das passiert, wird der Nutzer durchdrehen und randalieren, bis er letztendlich stirbt.\n\nEs gibt keine Möglichkeit den Entzug dieser Sucht zu überleben.</Chemical_Luciferium.description>   
 
 	<Chemical_Ambrosia.label>Ambrosia</Chemical_Ambrosia.label>
