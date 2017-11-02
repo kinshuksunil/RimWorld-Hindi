@@ -1,59 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Tutorial</Tutorial>
-  <NewColony>New colony</NewColony>
+  <Tutorial>ट्युटोरियल</Tutorial>
+  <NewColony>नई कॉलोनी</NewColony>
   <BackToGame>Back to game</BackToGame>
   <ReviewScenario>Review scenario</ReviewScenario>
-  <Save>Save</Save>
-  <LoadGame>Load game</LoadGame>
+  <Save>सेव करें</Save>
+  <LoadGame>गेम लोड करें</LoadGame>
   <Options>Options</Options>
-  <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
+  <Mods>माॅड्स</Mods>
+  <Credits>क्रेडिट</Credits>
   <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
   <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
   <QuitToOS>Quit to OS</QuitToOS>
   <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
-  <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
-  <OfficialWiki>Official wiki</OfficialWiki>
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
-  <TynansDesignBook>Tynan's design book</TynansDesignBook>
-  <HelpTranslate>Help translate RimWorld</HelpTranslate>
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
-  <CreateWorld>Create world</CreateWorld>
+  <LudeonBlog>लड़ीयन ब्लॉग</LudeonBlog>
+  <Forums>फ़ोरम</Forums>
+  <OfficialWiki>अधिकृत विकी</OfficialWiki>
+  <TynansTwitter>टायनन का ट्विटर</TynansTwitter>
+  <TynansDesignBook>>टायनन की डिज़ाइन पुस्तिका</TynansDesignBook>
+  <HelpTranslate>RimWorld के अनुवाद में सहायता करें</HelpTranslate>
+  <BuySoundtrack>साउंडट्रैक खरीदें</BuySoundtrack>
+  <CreateWorld>विश्व बनाएं</CreateWorld>
 
   <!--=========== Create/review world ================-->
   <ReviewWorld>Review world</ReviewWorld>
   <WorldGenerate>Generate</WorldGenerate>
   <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
+  <Reset>रिसेट</Reset>
   <PlanetCoverage>Globe coverage</PlanetCoverage>
-  <PlanetRainfall>Overall rainfall</PlanetRainfall>
-  <PlanetTemperature>Overall temperature</PlanetTemperature>
-  <PlanetRainfall_Low>Low</PlanetRainfall_Low>
-  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
-  <PlanetRainfall_High>High</PlanetRainfall_High>
-  <PlanetTemperature_Low>Low</PlanetTemperature_Low>
-  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
-  <PlanetTemperature_High>High</PlanetTemperature_High>
+  <PlanetRainfall>कुल मिलाकर वर्षा</PlanetRainfall>
+  <PlanetTemperature>कुल तापमान</PlanetTemperature>
+  <PlanetRainfall_Low>कम</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>सामान्य</PlanetRainfall_Normal>
+  <PlanetRainfall_High>अधिक</PlanetRainfall_High>
+  <PlanetTemperature_Low>कम</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>सामान्य</PlanetTemperature_Normal>
+  <PlanetTemperature_High>उच्च</PlanetTemperature_High>
   <WorldSeed>Seed</WorldSeed>
   <RandomizeSeed>Randomize seed</RandomizeSeed>
   <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
-  <WorldFactionsTab>Factions</WorldFactionsTab>
+  <WorldFactionsTab>दल</WorldFactionsTab>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>विश्व चुने</SelectWorld>
+  <WorldChooseButton>चुने</WorldChooseButton>
+  <NoWorldsFilesFound>कोई विश्व फ़ाइल नहीं मिली। पहले विश्व का निर्माण करें।</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>This is the latest version.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>{0} संस्करण अब उपलब्ध। अधिक जानकारी के लिए ludeon.com देखें।</BuildNowAvailable>
+	<BuildUpToDate>यह नवीनतम संस्करण है।</BuildUpToDate>
+	<ErrorGettingVersionInfo>संस्करण की जानकारी लेने में त्रुटी: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>संस्करण की जानकारी लोड हो रही है...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
   <GenerateWorld>Generate world</GenerateWorld>
