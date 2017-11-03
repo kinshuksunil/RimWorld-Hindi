@@ -1,64 +1,39 @@
-﻿Crashville
-Crashtown
-Fallville
-Rimville
-Rimtown
-Jamestown
-Salvation
-Sleepville
-Microton
-Hurra
-Ellis
-Planeton
-Rimton
-Ludeon
-Banthos
-Parthos
-Lutin
-Shemston
-Craterton
-Wesselton
-Stonkley
-Flint
-Troit
-Planeton
+﻿बस्ती 
+खोड़ा 
+वैशाली 
+वसुंधरा 
+कौशाम्बी 
+धरा 
+दरया
+झंडे
+हाटा 
+बवाना 
+ढाका 
+दिल्ली 
+बंगश 
+शाहदरा 
+मंडोली 
+अलकनंदा 
+कैलाश 
+हौज़ खास 
+हौज़ रानी 
+सवाई 
+कोटला 
+मेहरौली 
+द्वारका 
+प्रह्लाद 
+माइका 
+ससुराल 
+बांके 
+बाराबंकी 
+बालियान 
+पुणे
+मुंबई 
+नाशिक 
+नारायणा 
+पालम 
+पटियाला 
+भटिंडा 
+मुनिरका 
 
 
-We Landed
-We Made It
-Landfall
-
-Lakeside Ridge
-Pine View
-Flowerville
-Sun Village
-
-
-Congers
-Colome
-Sparks
-Bedias
-Rhine
-Hialeah
-Qulin
-Crosbyton
-Mayaguez
-Seagraves
-Whitaker
-Welsh
-Braselton
-Colwyn
-Sparta
-La Minita
-Lepanto
-Graton
-Progreso
-Antioch
-Nemacolin
-Dannebrog
-Palo Pinto
-Breinigsville
-Alturas
-Pottstown
-Caro
-Sparland
