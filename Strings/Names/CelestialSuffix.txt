@@ -1,33 +1,27 @@
-﻿Secundus
-Primus
-Tertius
-Quadrus
-Pentimus
-Heximus
-Septimus
-Octus
-Nonus
+﻿द्वितीय 
+प्रथम 
+तृतीया 
+चतुर्थ 
+पंचम 
+षष्ठी 
+सप्तम 
+अष्टम 
+नवम 
+दशमेव 
 
-Minutus
+लघु 
 
-Borealis
-Australis
-Media
-Meridiana
-Posterious
-Prior
+बोरेआलिस 
+ऑस्ट्रलिस 
+मीडिया 
+मेरिडिआना 
+पोस्टेरियस 
+पूर्वी 
 
-Planet
-World
+गृह 
+दुनिया 
 
-al Rai
-al Asad
-al Samakah
-al Saif
-
-
-
-
-
-
-
+अल राइ 
+अल असद 
+अल समख 
+अल सैफ 
